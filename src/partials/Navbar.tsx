@@ -14,7 +14,7 @@ const Navbar = () => (
         <GradientLogo
           icon={
             <svg
-              className="mr-1 h-10 w-10 stroke-cyan-600"
+              className="mr-1 size-10 stroke-cyan-600"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
@@ -35,8 +35,8 @@ const Navbar = () => (
 
       <NavMenu>
         <NavMenuItem href="/posts/">Projects</NavMenuItem>
-        <NavMenuItem href="https://github.com/ironcutter24">GitHub</NavMenuItem>
-        <NavMenuItem href="https://ironcutter24.itch.io">itch.io</NavMenuItem>
+        <NavMenuItem href="https://github.com/icutter">GitHub</NavMenuItem>
+        <NavMenuItem href="https://icutter.itch.io">itch.io</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>

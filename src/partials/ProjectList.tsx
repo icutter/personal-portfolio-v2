@@ -30,7 +30,7 @@ const ProjectList = () => (
       <Project
         name="TiledCS MonoGame example"
         description="Sample project demonstrating how to render Tiled maps in MonoGame using TiledCS, featured in the TiledCS repo README."
-        link="https://github.com/ironcutter24/TiledCS-example-MonoGame"
+        link="https://github.com/icutter/TiledCS-example-MonoGame"
         category={
           <>
             <Shield url="Example Project-%23239120.svg?style=flat&logoColor=white" />
@@ -42,7 +42,7 @@ const ProjectList = () => (
       <Project
         name="C# State Machine"
         description="A flexible Finite State Machine with elegant syntax and support for hierarchical states."
-        link="https://github.com/ironcutter24/cs-state-machine"
+        link="https://github.com/icutter/cs-state-machine"
         category={
           <>
             <Shield url="Library-%23239120.svg?style=flat&logoColor=white" />

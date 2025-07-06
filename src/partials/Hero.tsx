@@ -34,19 +34,19 @@ const Hero = () => (
           <SocialIcon
             src="/assets/images/icons/fi-brands-linkedin.svg"
             alt="LinkedIn icon"
-            href="https://www.linkedin.com/in/taglia24/"
+            href="https://www.linkedin.com/in/icutter/"
             color="#019CE8"
           />
           <SocialIcon
             src="/assets/images/icons/fi-brands-github.svg"
             alt="GitHub icon"
-            href="https://github.com/ironcutter24"
+            href="https://github.com/icutter"
             color="#9132AD"
           />
           <SocialIcon
             src="/assets/images/icons/itchio-logo-textless-black.png"
             alt="itch.io icon"
-            href="https://ironcutter24.itch.io"
+            href="https://icutter.itch.io"
             color="#fa5c5c"
           />
 

@@ -1,7 +1,5 @@
 import { HeroAvatar, Section } from 'astro-boilerplate-components';
 
-import SocialLinks from '@/data/SocialLinks';
-
 import { GradientText } from './GradientText';
 import SocialIcon from './SocialIcon';
 
@@ -36,21 +34,36 @@ const Hero = () => (
           <SocialIcon
             src="/assets/images/icons/fi-brands-linkedin.svg"
             alt="LinkedIn icon"
-            href={SocialLinks.linkedin}
+            href="https://www.linkedin.com/in/taglia24/"
             color="#019CE8"
           />
           <SocialIcon
             src="/assets/images/icons/fi-brands-github.svg"
             alt="GitHub icon"
-            href={SocialLinks.github}
+            href="https://github.com/ironcutter24"
             color="#9132AD"
           />
           <SocialIcon
             src="/assets/images/icons/itchio-logo-textless-black.png"
             alt="itch.io icon"
-            href={SocialLinks.itch}
+            href="https://ironcutter24.itch.io"
             color="#fa5c5c"
           />
+
+          {/*
+          <SocialIcon
+            src="/assets/images/icons/mail-logo-black.png"
+            alt="eMail icon"
+            href=""
+            color="#6AC4F7"
+          />
+          <SocialIcon
+            src="/assets/images/icons/fi-brands-youtube.svg"
+            alt="YouTube icon"
+            href="https://www.youtube.com/@ironcutter-dev"
+            color="#FF0000"
+          />
+          */}
         </>
       }
     />

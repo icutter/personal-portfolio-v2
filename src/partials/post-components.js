@@ -4,3 +4,4 @@ export { EmbedVideo } from './EmbedVideo.tsx';
 export { InlineBadge } from './InlineBadge.tsx';
 export { ProjectDetails } from './ProjectDetails.tsx';
 export { StoreLinkBanner } from './StoreLinkBanner.tsx';
+export { Contribution } from './Contribution.tsx';

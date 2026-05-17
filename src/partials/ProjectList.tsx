@@ -22,8 +22,8 @@ const ProjectList = () => (
           <>
             <Shield url="VS%20Code%20Extension-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
             <Shield url="Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
-            <ShieldFull url="https://img.shields.io/visual-studio-marketplace/d/Ironcutter24.cscurlyformatter?label=Downloads&style=flat" />
-            <ShieldFull url="https://img.shields.io/visual-studio-marketplace/stars/Ironcutter24.cscurlyformatter?label=Rating&style=flat" />
+            <ShieldFull url="https://vsmarketplacebadges.dev/downloads-short/Ironcutter24.cscurlyformatter.svg" />
+            <ShieldFull url="https://vsmarketplacebadges.dev/rating-star/Ironcutter24.cscurlyformatter.svg" />
           </>
         }
       />
